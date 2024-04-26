@@ -51,7 +51,7 @@
                 know about js basic 04 Naming function Project <End>
     -------------------------------------------------------------------
         ------------------------------------------------------------------    
-                know about js basic 04 Arrow function Project <End>
+                know about js basic 04 Arrow function Project <Start>
     -------------------------------------------------------------------
         // ! function type : 
     -----------------------------------------------
@@ -105,7 +105,7 @@
     */
     //arrow function using simple project
     // ======================================== 
-    
+
     //price function
     const addPrice = (initPrice,initQuantity)=>{
         let total = initPrice * initQuantity;
